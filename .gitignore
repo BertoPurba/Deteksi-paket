@@ -10,8 +10,6 @@ models/
 __pycache__/
 *.pyc
 
-# Aplikasi
-
 
 # Environment variables
 .env
